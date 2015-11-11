@@ -1,1 +1,1 @@
-# OpenInnovationLeadershipProject
+# Open Innovation Leadership Project
